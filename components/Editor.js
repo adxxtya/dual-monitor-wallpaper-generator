@@ -110,21 +110,3 @@ function Editor() {
 }
 
 export default Editor;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{/* <div className='monitor' style={{ width: '350px', height: '200px', position: 'relative', background: '#000', borderBottom: '30px solid #d8d8d8', borderRadius: '4px' }}>
-                <div style={{ content: '', position: 'absolute', width: '70px', height: '60px', left: '50%', bottom: '-70px', zIndex: '-1', transform: 'perspective(100px) translateX(-50%) rotateX(25deg) skewX(7deg)', backgroundColor: '#bdbdbd' }}></div>
-                <div style={{ content: '', position: 'absolute', width: '140px', height: '15px', left: '50%', bottom: '-85px', zIndex: '-1', transform: 'translateX(-50%)', backgroundColor: '#d8d8d8' }}></div>
-            </div> */}
