@@ -1,0 +1,29 @@
+{
+  "name": "hades",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.4",
+    "interactjs": "^1.10.17",
+    "next": "13.4.4",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-drag-and-drop": "^3.0.0",
+    "react-draggable": "^4.4.5",
+    "react-interactjs": "^0.1.2",
+    "react-pinch-zoom-pan": "^1.4.5",
+    "react-resizable": "^3.0.5",
+    "react-rnd": "^10.4.1",
+    "react-zoom-pan-pinch": "^3.0.8",
+    "tailwindcss": "3.3.2"
+  }
+}
