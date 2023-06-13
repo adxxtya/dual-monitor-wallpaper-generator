@@ -2,7 +2,7 @@
 
 Stage - Early stage of development and figuring out...
 
-Checout out Live - [Hades](https:hades-dual-wallpaper-generator.netlify.app)
+## Checout out Live - [Hades](https:hades-dual-wallpaper-generator.netlify.app)
 
 Preview - 
 ![Preview Image](public/Screenshot.png)
