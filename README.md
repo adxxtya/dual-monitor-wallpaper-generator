@@ -6,6 +6,8 @@ Checout out Live - [Hades](https:hades-dual-wallpaper-generator.netlify.app)
 
 Preview - 
 ![Preview Image](public/Screenshot.png)
+![Preview Image 2](public/Screenshot2.png)
+
 
 The Dual Monitor Wallpaper Generator is a powerful tool that allows users to effortlessly create stunning wallpapers for dual monitors or multiple screens. With this tool, users can add their desired images, preview them online, and generate the final wallpaper file.
 
